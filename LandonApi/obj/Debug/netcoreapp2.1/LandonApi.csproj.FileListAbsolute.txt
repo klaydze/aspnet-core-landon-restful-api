@@ -1,0 +1,14 @@
+C:\Users\jessie.p.semana\Downloads\Ex_Files_RESTful_ASP_NET\Ex_Files_RESTful_ASP_NET\Exercise Files\Ch12\Final\LandonApi\bin\Debug\netcoreapp2.1\LandonApi.deps.json
+C:\Users\jessie.p.semana\Downloads\Ex_Files_RESTful_ASP_NET\Ex_Files_RESTful_ASP_NET\Exercise Files\Ch12\Final\LandonApi\bin\Debug\netcoreapp2.1\LandonApi.runtimeconfig.json
+C:\Users\jessie.p.semana\Downloads\Ex_Files_RESTful_ASP_NET\Ex_Files_RESTful_ASP_NET\Exercise Files\Ch12\Final\LandonApi\bin\Debug\netcoreapp2.1\LandonApi.runtimeconfig.dev.json
+C:\Users\jessie.p.semana\Downloads\Ex_Files_RESTful_ASP_NET\Ex_Files_RESTful_ASP_NET\Exercise Files\Ch12\Final\LandonApi\bin\Debug\netcoreapp2.1\LandonApi.dll
+C:\Users\jessie.p.semana\Downloads\Ex_Files_RESTful_ASP_NET\Ex_Files_RESTful_ASP_NET\Exercise Files\Ch12\Final\LandonApi\bin\Debug\netcoreapp2.1\LandonApi.pdb
+C:\Users\jessie.p.semana\Downloads\Ex_Files_RESTful_ASP_NET\Ex_Files_RESTful_ASP_NET\Exercise Files\Ch12\Final\LandonApi\obj\Debug\netcoreapp2.1\LandonApi.csprojAssemblyReference.cache
+C:\Users\jessie.p.semana\Downloads\Ex_Files_RESTful_ASP_NET\Ex_Files_RESTful_ASP_NET\Exercise Files\Ch12\Final\LandonApi\obj\Debug\netcoreapp2.1\LandonApi.csproj.CoreCompileInputs.cache
+C:\Users\jessie.p.semana\Downloads\Ex_Files_RESTful_ASP_NET\Ex_Files_RESTful_ASP_NET\Exercise Files\Ch12\Final\LandonApi\obj\Debug\netcoreapp2.1\LandonApi.RazorAssemblyInfo.cache
+C:\Users\jessie.p.semana\Downloads\Ex_Files_RESTful_ASP_NET\Ex_Files_RESTful_ASP_NET\Exercise Files\Ch12\Final\LandonApi\obj\Debug\netcoreapp2.1\LandonApi.RazorAssemblyInfo.cs
+C:\Users\jessie.p.semana\Downloads\Ex_Files_RESTful_ASP_NET\Ex_Files_RESTful_ASP_NET\Exercise Files\Ch12\Final\LandonApi\obj\Debug\netcoreapp2.1\LandonApi.AssemblyInfoInputs.cache
+C:\Users\jessie.p.semana\Downloads\Ex_Files_RESTful_ASP_NET\Ex_Files_RESTful_ASP_NET\Exercise Files\Ch12\Final\LandonApi\obj\Debug\netcoreapp2.1\LandonApi.AssemblyInfo.cs
+C:\Users\jessie.p.semana\Downloads\Ex_Files_RESTful_ASP_NET\Ex_Files_RESTful_ASP_NET\Exercise Files\Ch12\Final\LandonApi\obj\Debug\netcoreapp2.1\LandonApi.RazorTargetAssemblyInfo.cache
+C:\Users\jessie.p.semana\Downloads\Ex_Files_RESTful_ASP_NET\Ex_Files_RESTful_ASP_NET\Exercise Files\Ch12\Final\LandonApi\obj\Debug\netcoreapp2.1\LandonApi.dll
+C:\Users\jessie.p.semana\Downloads\Ex_Files_RESTful_ASP_NET\Ex_Files_RESTful_ASP_NET\Exercise Files\Ch12\Final\LandonApi\obj\Debug\netcoreapp2.1\LandonApi.pdb
